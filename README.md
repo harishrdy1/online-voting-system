@@ -1,1 +1,1 @@
-# online-voting-system
+# hotel-management-system
